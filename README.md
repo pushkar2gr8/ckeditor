@@ -112,3 +112,4 @@ This plugin uses some code from [official manual](https://strapi.io/documentatio
 ## ⭐️ Show your support
 
 Give a star if this project helped you.
+# ckeditor
